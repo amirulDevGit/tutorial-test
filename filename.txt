@@ -1,7 +1,9 @@
 feature 1
 feature 2
+variable here
 feature 3
 feature 4
 feature 5
 feature 6
+The great feature is coming just right here
 feature 7
