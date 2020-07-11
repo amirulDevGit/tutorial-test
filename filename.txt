@@ -7,3 +7,6 @@ feature 5
 feature 6
 The great feature is coming just right here
 feature 7
+feature 7
+feature 8
+feature 9
